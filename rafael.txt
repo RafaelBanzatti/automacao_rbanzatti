@@ -1,0 +1,3 @@
+rafael.txt
+*.png
+dir/*.txt
